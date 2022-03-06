@@ -20,9 +20,11 @@ PetImages/
 ## Example dataset
 
 **Not Normalized**
+
 ![Not Normalized](./non-normalized.JPG)
 
 **Normalized**
+
 ![Normalized](./normalized.JPG)
 
 ## Training process (Read comments on jupyter notebook detailed explanation)
